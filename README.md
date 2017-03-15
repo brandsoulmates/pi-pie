@@ -15,6 +15,7 @@ By <a href="http://www.ayzenberg.com" target="_blank">Ayzenberg</a>
 * Female DC Power adapter 
 * Arcade Button
 * Standard servo
+* Linear actuator for standard servo
 * PowerSwitch Tail II PN 80136 Normally Open http://www.powerswitchtail.com/Pages/default.aspx
 * Sharp Infrared Proximity Sensor
 * Analog to Digital Converter MCP3002
