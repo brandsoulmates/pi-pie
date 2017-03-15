@@ -62,7 +62,7 @@ Open the Rube2.sln file in visual studio choose the ARM architecture in the drop
 
 <img src="https://raw.githubusercontent.com/brandsoulmates/pi-pie/master/photos/remotemachine.png" style="width:100%">
 
-The pi will display a point-and-click UI via its HDMI output for starting and stopping the device, along with statuses for the solenoid, button, proximity sensor, and servo.
+The pi will display a point-and-click UI via its HDMI output for starting and stopping the device, along with statuses for the solenoid, button, proximity sensor, and servo. The main logic is in [Rube2/MainPage.xaml.cs](Rube2/MainPage.xaml.cs).
 
 
 
