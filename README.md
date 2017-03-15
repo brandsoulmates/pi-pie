@@ -16,6 +16,8 @@ By <a href="http://www.ayzenberg.com" target="_blank">Ayzenberg</a>
 * Arcade Button
 * Standard servo
 * PowerSwitch Tail II PN 80136 Normally Open http://www.powerswitchtail.com/Pages/default.aspx
+* Sharp Infrared Proximity Sensor
+* Analog to Digital Converter MCP3002
 * 5V power supply or 4 AA battery holder (6V for servo)
 * Two half-size breadboards
 * Two 5mm LEDs
