@@ -1,7 +1,7 @@
 # Pi Pie Rube Goldberg Device
-By [Ayzenberg](http://www.ayzenberg.com)
+By <a href="http://www.ayzenberg.com" target="_blank">Ayzenberg</a>
 
-<img src="https://raw.githubusercontent.com/brandsoulmates/pi-pie/master/photos/rube_ui.jpg" style="width:100%">
+<a href="https://www.facebook.com/MicrosoftStore/videos/10155054904077480/" target="_blank"><img src="https://raw.githubusercontent.com/brandsoulmates/pi-pie/master/photos/rube_ui.jpg" style="width:100%"></a>
 
 # Parts list
 
